@@ -8,9 +8,9 @@ build-mindetach-module = false
 # add 'enabled = false' for not patching a specific app
 [YouTube]
 enabled = true
-build-mode = "module"                                                   # 'both', 'apk' or 'module'
+build-mode = "apk"                                                   # 'both', 'apk' or 'module'
 excluded-patches = ""                                        # whitespace seperated list of patches to exclude (multiline strings are not supported)
-included-patches = "copy-video-url disable-auto-captions disable-auto-player-popup-panels disable-startup-shorts-player general-ads hide-create-button hide-shorts-button hide-watermark minimized-playback old-quality-layout open-links-directly open-links-externally remember-video-quality sponsorblock swipe-controls theme video-ads hide-video-buttons disable-zoom-haptics hide-endscreen-cards remove-screenshot-restriction hdr-auto-brightness seekbar-tapping hide-watch-in-vr"                                                 # whitespace seperated list of patches to include
+included-patches = "microg-support copy-video-url disable-auto-captions disable-auto-player-popup-panels disable-startup-shorts-player general-ads hide-create-button hide-shorts-button hide-watermark minimized-playback old-quality-layout open-links-directly open-links-externally remember-video-quality sponsorblock swipe-controls theme video-ads hide-video-buttons disable-zoom-haptics hide-endscreen-cards remove-screenshot-restriction hdr-auto-brightness seekbar-tapping hide-watch-in-vr"                                                 # whitespace seperated list of patches to include
 version = "18.03.36"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = true                                             # excludes all patches by default
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
