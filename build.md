@@ -12,7 +12,7 @@ Patches: revanced-patches-2.164.0.jar
 
   
 **App Versions:**  
-YouTube: 18.03.36  
+Tasker: 6.0.9  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
