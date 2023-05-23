@@ -1,6 +1,4 @@
 YouTube: 18.16.37  
-Twitch: 14.6.1  
-TikTok: 27.8.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
