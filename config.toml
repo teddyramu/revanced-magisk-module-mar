@@ -62,8 +62,11 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Reddit]
-enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+
+[Messenger]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+arch = "arm64-v8a"
 
 [Spotify]
 enabled = false
