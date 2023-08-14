@@ -7,8 +7,6 @@ build-mindetach-module = false
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-apkmirror-arch = "universal"
-build-mode = "module"
 version = "18.23.35"
-module-prop-name = "ytrv-magisk-ted"
-excluded-patches = "always-autorepeat client-spoof custom-branding disable-fullscreen-panels enable-debugging external-downloads hdr-auto-brightness hide-ads hide-captions-button hide-cast-button hide-crowdfunding-box hide-email-address hide-floating-microphone-button hide-load-more-button hide-player-overlay minimized-playback player-flyout-menu premium-heading return-youtube-dislike spoof-app-version tablet-mini-player vanced-microg-support video-ads wide-searchbar"
+included-patches = "client-spoof hide-ads hide-autoplay-button hide-breaking-news-shelf hide-cast-button minimized-playback old-video-quality-menu open-links-externally remember-video-quality seekbar-tapping swipe-controls theme vanced-microg-support video-ads"
+exclusive-patches = true
