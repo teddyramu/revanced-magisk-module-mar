@@ -8,5 +8,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "module"
+version = "18.38.44"
 included-patches = "'Remove player controls background'"
 excluded-patches = "'Client spoof' 'Spoof device dimensions' 'Always autorepeat' 'Minimized playback' 'Vanced MicroG support' 'Video ads' 'Hide ads' 'External downloads' 'Enable tablet layout' 'Premium heading' 'Hide timestamp' 'Comments' 'Hide seekbar' 'Hide email address' 'Wide searchbar' 'Alternative thumbnails' 'Tablet mini player' 'Spoof app version' 'Hide cast button' 'Return YouTube Dislike'"
