@@ -1,5 +1,5 @@
 [YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 build-mode = "module"
 version = "19.04.37"
 included-patches = "'Enable slide to seek'"
