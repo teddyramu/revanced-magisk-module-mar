@@ -1,6 +1,6 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
-version = "19.16.39"
+version = "19.34.42"
 included-patches = "'Enable slide to seek'"
 excluded-patches = "'Downloads' 'Restore old video quality menu' 'Playback speed' 'Wide searchbar' 'Restore old seekbar thumbnails' 'Hide cast button' 'Navigation buttons' 'Hide player buttons' 'Hide captions button' 'Hide seekbar' 'Hide timestamp' 'Disable rolling number animations' 'Custom player overlay opacity' 'Enable tablet layout' 'Alternative thumbnails' 'Bypass image region restrictions' 'Return YouTube Dislike' 'Spoof app version' 'Disable zoom haptics' 'Spoof device dimensions' 'Enable debugging' 'Always repeat' 'GmsCore support' 'Spoof video streams' 'Video ads' 'Hide ads'"
