@@ -1,8 +1,8 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = false # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "module"
-version = "19.43.41"
-excluded-patches = "'Downloads' 'Disable rolling number animations' 'Hide seekbar' 'Custom player overlay opacity' 'Return YouTube Dislike' 'Wide searchbar' 'Spoof app version' 'Enable tablet layout' 'Alternative thumbnails' 'Enable debugging' 'Spoof device dimensions' 'Spoof video streams' 'GmsCore support'"
+version = "19.46.42"
+included-patches = "'Hide ads' 'Video ads' 'Copy video URL' 'Remove viewer discretion dialog' 'Seekbar tapping' 'Seekbar thumbnails' 'Swipe controls' 'Hide player overlay buttons' 'Hide endscreen cards' 'Disable fullscreen ambient mode' 'Disable suggested video end screen' 'Miniplayer' 'Shorts autoplay' 'Spoof app version' 'Theme' 'Bypass image region restrictions' 'Remove background playback restrictions' 'Check watch history domain name resolution' 'Spoof video streams' 'GmsCore support' 'Bypass URL redirects' 'Remember video quality' 'Restore old video quality menu'"
+exclusive-patches = true
