@@ -1,5 +1,5 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-version = "20.12.46"
+version = "20.13.41"
 excluded-patches = "'Downloads' 'Change form factor' 'Disable rolling number animations' 'Hide timestamp' 'Return YouTube Dislike' 'Wide search bar' 'Alternative thumbnails' 'Announcements' 'Enable debugging'"
 
